@@ -1,37 +1,21 @@
-## Welcome to GitHub Pages
+## Matplotlib Challenge
 
-You can use the [editor on GitHub](https://github.com/austin3216/matplotlib-challenge/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+This challenge tested data wrangling and plotting skills using Matplotlib and Pandas.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+_Skills Tested_
+- DataFrame creation and manipulation
+- Summary statistics
+- Bar, pie, scatter, line, and box plotting and styling
+- Quartiles, interquartile range, outliers
+- Correlation coefficient and linear regression model 
 
-### Markdown
+### Dataset
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+249 mice identified with squamous cell carcinoma (SCC) tumor growth treated through a variety of drug regimens. Over the course of 45 days, tumor development was observed and measured. The study compared the performance of a drug of interest, Capomulin, versus three other treatment regimens.
 
 ```markdown
-Syntax highlighted code block
+# Examples of Findings and Formatted Outputs
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+![Image of Boxplot](https://github.com/austin3216/matplotlib-challenge/blob/main/Pymaceuticals_BoxPlot.jpg)
+![Image of Scatterplot](https://github.com/austin3216/matplotlib-challenge/blob/main/Scatter%20with%20Correlation.png)
 ```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/austin3216/matplotlib-challenge/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
