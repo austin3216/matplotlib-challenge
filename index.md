@@ -1,4 +1,4 @@
-## Matplotlib Challenge
+# Matplotlib Challenge
 
 This challenge tested data wrangling and plotting skills using Matplotlib and Pandas.
 
@@ -9,13 +9,12 @@ _Skills Tested_
 - Quartiles, interquartile range, outliers
 - Correlation coefficient and linear regression model 
 
-### Dataset
+_Dataset_
 
 249 mice identified with squamous cell carcinoma (SCC) tumor growth treated through a variety of drug regimens. Over the course of 45 days, tumor development was observed and measured. The study compared the performance of a drug of interest, Capomulin, versus three other treatment regimens.
 
-```markdown
-# Examples of Findings and Formatted Outputs
+
+## Selected Findings and Outputs
 
 ![Image of Boxplot](https://github.com/austin3216/matplotlib-challenge/blob/main/Pymaceuticals_BoxPlot.jpg)
 ![Image of Scatterplot](https://github.com/austin3216/matplotlib-challenge/blob/main/Scatter%20with%20Correlation.png)
-```
